@@ -1,8 +1,4 @@
-# =========================================================
-# AI STOCK DIRECTION PREDICTION SYSTEM
-# Advanced Quant Research Dashboard
-# Built for IndiMinds 2026
-# =========================================================
+
 import plotly.express as px
 
 import streamlit as st
